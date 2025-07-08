@@ -3,16 +3,29 @@ import './Experience.css';
 
 const Experience = () => {
   const experiences = [
-    {
+     {
       title: "Senior Software Engineer",
-      company: "Tech Solutions Inc.",
-      period: "2020 - Present",
-      description: "Led a team of developers to build scalable web applications using React and Node.js."
+      company: "Brand Corridor PVT LTD",
+      period: "2024(July) - Present",
+      description: "Conducted comprehensive bug fixing and performance optimization in an immigration consultation application developed using CakePHP, ensuring seamless functionality. Designed and implemented a robust data collection system for a finance company, improving data accuracy and reporting efficiency. Built a ticket reservation system with secure payment integration , streamlining bookings and transactions. Created a table reservation system for restaurants/events, featuring real-time availability updates and automated confirmations using laravel. Designed a job and proposal handover system to streamline task delegation and project transitions within teams using laravel. Developed multiple interactive games (e.g., spin wheel, sensor games , or AR-based experiences) for clients, boosting user interaction and brand visibility. Developed an online election prediction platform with real-time analytics, used by 10K+ users "  
+     },
+      {
+      title: " Software Engineer",
+      company: "Brand Corridor PVT LTD",
+      period: "2024(March) - July",
+      description: "Developed a comprehensive billing system for a play area using RFID cards, implemented with Laravel for efficient payment processing and including integrated stock management. Designed and launched a WooCommerce website using WordPress, enhancing the online shopping experience and improving sales."
     },
     {
-      title: "Software Engineer",
-      company: "Digital Innovations",
-      period: "2017 - 2020",
+
+
+      title: "Associate Software Engineer",
+      company: "ISHR (Dubai) Remote",
+      period: "2023 - 2024",
+      description: "Developed and implemented functionality and components in a web application using WordPress to enhance user experience and site performance. Identified and documented website errors, creating detailed reports for development teams to improve website quality and reliability. Managed company resources and provided technical support for non-IT sections, ensuring smooth operations and effective resource utilization."
+    },
+    {
+      title: "Trainee Software Engineer",
+      company: "Loons Labs",
       description: "Developed and maintained customer-facing web applications."
     }
   ];
