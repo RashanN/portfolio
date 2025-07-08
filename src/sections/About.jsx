@@ -11,7 +11,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-image-container">
             <img 
-              src="/assets/profile.jpg" 
+              src="/assets/11.jpeg" 
               alt="Rashan" 
               className="about-image float"
             />
